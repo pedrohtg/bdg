@@ -1,0 +1,12 @@
+num_barragem por estado
+num_barragem de rejeito por estado
+num_barragem com risco alto por estado
+num_barragem de rejeito com risco alto por estado
+porcetagem de barragens fiscalizadas no ultimo ano
+porcetagem de barragens fiscalizadas nos ultimos 5 anos
+
+num_barragem com risco alto a menos de 2km de rodovia ou ferrovia (risco de disrupcao de redes de transporte/logistica)
+num_barragem com risco alto a menos de 2km de linha de transmissao (risco de disrupcao de rede energia)
+num_barragem de rejeito com risco alto a menos de 2km de pnt_captacao/adutoras (risco de interferencia/poluicao em abastecimento de agua humano)
+num_barragem de rejeito com risco alto a menos de 2km de rios (risco de poluicao/destruicao de ecossistemas)
+num_barragem dentro de áreas de conservacao
